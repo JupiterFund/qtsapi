@@ -14,7 +14,7 @@ QTS Java API是QTS接口的Java版本。
 
 ```gradle
 dependencies {
-  implementation 'com.github.JupiterFund:qtsapi:{{Release}}:all'
+  implementation 'com.github.JupiterFund:qtsapi:v2.6.0:all'
 }
 ```
 
@@ -22,7 +22,7 @@ dependencies {
 <dependency>
     <groupId>com.github.JupiterFund</groupId>
     <artifactId>qtsapi</artifactId>
-    <version>{{Release}}</version>
+    <version>v2.6.0</version>
     <classifier>all</classifier>
 </dependency>
 ```
