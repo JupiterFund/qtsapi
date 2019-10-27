@@ -3,7 +3,7 @@
 [![](https://jitpack.io/v/JupiterFund/qtsapi.svg)](https://jitpack.io/#JupiterFund/qtsapi)
 [![](https://jitci.com/gh/JupiterFund/qtsapi/svg)](https://jitci.com/gh/JupiterFund/qtsapi)
 
-QTS Java API是QTSj接口的Java版本。
+QTS Java API是QTS接口的Java版本。
 
 ## 如何使用
 
